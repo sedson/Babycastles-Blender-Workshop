@@ -1,5 +1,6 @@
 
-![Cover](/cover.jpg);
+![Cover](/cover.jpg)
+
 ## Building 3D Worlds in Blender
 
 February 14, 2021
