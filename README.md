@@ -2,6 +2,8 @@
 
 ## Building 3D Worlds in Blender
 
+[Archived Recording](https://www.youtube.com/watch?v=ZaHqkCHdi0g&ab_channel=Babycastles)
+
 February 14, 2021
 
 Seamus Edson
